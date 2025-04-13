@@ -11,7 +11,7 @@
 ```
 
 ## 数据集
-下载[CIFAR]https://www.cs.toronto.edu/~kriz/cifar.html中的CIFAR-10数据集，将解压后的数据放入文件夹cifar-10-batches-py，并将文件夹新建在主目录
+下载[CIFAR](https://www.cs.toronto.edu/~kriz/cifar.html)中的CIFAR-10数据集，将解压后的数据放入文件夹cifar-10-batches-py，并将文件夹新建在主目录
 
 ## 训练与测试
 ```bash
